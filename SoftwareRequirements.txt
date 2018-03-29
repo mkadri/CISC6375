@@ -1,1 +1,2 @@
-+ The syatem shal be easy to use.
++ The system shall be easy to use.
++ The system shall be secure.
