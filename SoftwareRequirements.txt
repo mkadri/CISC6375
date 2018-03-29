@@ -1,2 +1,4 @@
 + The system shall be easy to use.
 + The system shall be secure.
++ Added 1st modification inside branch Bug-fix.
++ Added 2nd modification inside branch Bug-fix.
